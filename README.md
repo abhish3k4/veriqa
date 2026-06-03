@@ -81,4 +81,4 @@ pytest -v
 
 ## License
 
-MIT © 2026 Shubham Tripathi
+MIT © 2026 Abhishek Singh
