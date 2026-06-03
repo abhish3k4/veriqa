@@ -9,7 +9,7 @@ description = "Catch silently-wrong quantum circuits: assertions, statistical ch
 readme = "README.md"
 requires-python = ">=3.9"
 license = "MIT"
-authors = [{ name = "Shubham Tripathi" }]
+authors = [{ name = "Abhishek Singh" }]
 keywords = ["quantum", "testing", "qiskit", "qa", "verification", "regression"]
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -30,8 +30,8 @@ dependencies = [
 dev = ["pytest>=7"]
 
 [project.urls]
-Homepage = "https://github.com/CHANGE_ME/veriqa"
-Issues = "https://github.com/CHANGE_ME/veriqa/issues"
+Homepage = "https://github.com/abhish3k4/veriqa"
+Issues = "https://github.com/abhish3k4/veriqa/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
